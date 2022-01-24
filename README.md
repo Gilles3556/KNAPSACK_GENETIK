@@ -6,6 +6,7 @@ en Java.
 
 Il y a 3 lanceur dans ce projet:
 - LanceurCombinaison: permet de lancer la rechercher en fonction du nombre d'éléments à choisir.
+       
        ATTENTION:
        . le maximum est 26
        . il faut générer le fichier en le nommant "combinaisons26.txt"
