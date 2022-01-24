@@ -12,7 +12,7 @@ Il y a 3 lanceur dans ce projet:
  - LecteurFichier: programme permettant de lire le contenu du fichier contenant les combinaisons
  - GenerateurFichier: programme permettant de générer le fichier des combinaisons
  
- REMARQUE: pour les combinaisons j'ai choisi d'utiliser le binaire des nombres dde 0 jqa 2^26(67 108 864)
+ REMARQUE: pour les combinaisons j'ai choisi d'utiliser le binaire des nombres de 0 jqa 2^26(67 108 864)
    
 
 
